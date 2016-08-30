@@ -38,6 +38,21 @@ ul li {
   color:#eee;
 }
 
+.rm {
+  display:inline;
+  float: right;
+  width: 15px;
+  height: 22px;
+  text-align: center;
+}
+
+.edit {
+  display:inline;
+  float: right;
+  width: 15px;
+  height: 22px;
+}
+
 #add_todo{
   margin-left:10px;
   background:#FF6666;
